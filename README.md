@@ -1,6 +1,6 @@
 # 👋 Hey, I’m **Diego Espinosa León** 🚀
 
-### 🏆 **Full-Stack Web & App Developer** | 🛠️ **Scaffolding Solutions Expert** | 💡 **Innovator & Problem-Solver**
+### 🏆 **Full-Stack Web & App Developer** | 💡 **Innovator & Problem-Solver**
 
 > *"Nothing is impossible when there’s a coding solution."*
 
@@ -13,7 +13,7 @@ I craft powerful digital experiences that blend functionality with innovation. F
 - 🔥 Building cutting-edge **web platforms**, **mobile apps**, and **custom dashboards**  
 - 💻 Mastering technologies like **React.js**, **Node.js**, **Swift**, and **PHP**  
 - 🏗️ Developing systems for **inventory tracking**, **order management**, and **payroll automation**  
-- 📍 Based in **Germany** but coding for the world 🌍  
+- 📍 Running on coffee, coding for the world 🌍
 
 ---
 
@@ -40,16 +40,22 @@ I craft powerful digital experiences that blend functionality with innovation. F
 ### 🌟 **Featured Projects**
 
 🚧 **[TTF Scaffolding Dashboard](#)**  
-_A comprehensive system for managing scaffolding rentals, shipments, returns, and payroll._  
-**Tech Used:** React.js, Node.js, SQL, Firebase  
+A powerful, all-in-one management system designed for the scaffolding industry. This platform enables efficient tracking of scaffolding rentals, shipments, returns, and a comprehensive order management system. It also features an advanced inventory management system, a working hours tracker, and an automated payroll generation tool.
+Tech Used: React.js for an intuitive frontend, Node.js for backend APIs, SQL for reliable data storage, and Firebase for real-time database management and authentication.
 
 🏠 **[AdviciApp](#)**  
-_Connecting users with industry experts for fast and easy property damage claims._  
-**Tech Used:** React Native, Node.js, Supabase  
+A robust mobile and web platform built to simplify property damage claims by connecting users with industry experts quickly and efficiently. The dashboard allows users to manage emergency service requests, track claims, and organize necessary insurance documentation. Additionally, the platform features tools for inventory tracking and alternative accommodation management for users during property repairs.
+Tech Used: React Native for seamless cross-platform development, Node.js for backend processes, and Supabase for an easy-to-manage database and authentication system.
 
 🎉 **[Betterest Days & Better Events](#)**  
-_Booking platform + e-commerce system for renting event equipment with seamless payment integration._  
-**Tech Used:** React.js, Node.js, Firebase, Stripe  
+A hybrid booking and e-commerce platform designed for renting inflatables and event equipment. Users can browse inventory, manage bookings, and process payments seamlessly. The admin dashboard allows event organizers to track bookings, manage pricing, handle inventory, and oversee payment transactions with ease.
+Tech Used: Built using React.js for the frontend, Node.js for server-side logic, Firebase for database and hosting, and Stripe for secure and smooth payment processing.
+
+🔥 **[BadAssBBQs](#)**  
+An e-commerce platform dedicated to selling high-quality grills, ovens, and BBQ-related equipment. The platform features a dynamic product catalog, AI-generated product descriptions, and a robust payment processing system. A custom-built management app allows the client to handle orders, inventory, and shipping. Additionally, an AI-powered chatbot provides instant customer support and product recommendations.
+Tech Used: Developed with React.js for a responsive user interface, Node.js for backend functionality, Stripe for payment processing, and a custom AI integration for enhanced user experience.
+
+
 
 ---
 
