@@ -1,4 +1,4 @@
-# 👋 Hey, I’m **Diego Espinosa León** 🚀
+# 👋 Hey, I’m **Diego Espinosa ** 🚀
 
 ### 🏆 **Full-Stack Web & App Developer** | 💡 **Innovator & Problem-Solver**
 
@@ -32,8 +32,16 @@ I craft powerful digital experiences that blend functionality with innovation. F
 
 ### 📈 **GitHub Stats**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dieg0espx&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dieg0espx&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dieg0espxe&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=dieg0espxe&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dieg0espxe&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dieg0espxe&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=dieg0espxe&color=blue&style=flat-square)
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=dieg0espxe&repo=repository-name&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/dieg0espxe?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&followup=1&lines=1)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
+[![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datrose.workers.dev/api/code-time-badge/dieg0espxe)](https://codetime.dev)
+
 
 
 ---
