@@ -40,42 +40,42 @@ I craft powerful digital experiences that blend functionality with innovation. F
 
 🚧 **[TTF Scaffolding Dashboard](#)**  
 A powerful all-in-one management system for the scaffolding industry.
-✅ Track rentals, shipments, returns, and manage orders with ease.
-✅ Advanced inventory management, working hours tracker, and automated payroll system for seamless operations.
-✅ Integrated take-off system powered by AI and object recognition for accurate scaffolding calculations.
+- ✅ Track rentals, shipments, returns, and manage orders with ease.
+- ✅ Advanced inventory management, working hours tracker, and automated payroll system for seamless operations.
+- ✅ Integrated take-off system powered by AI and object recognition for accurate scaffolding calculations.
 
 🔧 Tech Stack:
 React.js (Frontend) • Node.js (Backend APIs) • SQL (Data Storage) • AWS
 
 🏠 **[Betterest Days](#)**  
 A rental property booking platform connecting multiple listings (e.g., Airbnb).
-🏡 Manage properties, bookings, calendars, payments, and invoices through a streamlined dashboard.
-📆 Ideal for property owners looking for efficient, all-in-one management tools.
+- 🏡 Manage properties, bookings, calendars, payments, and invoices through a streamlined dashboard.
+- 📆 Ideal for property owners looking for efficient, all-in-one management tools.
 
 🔧 Tech Stack:
 React.js • Node.js • Firebase • Hosted on Vercel
 
 🎉 **[Better Events](#)**  
 A booking and e-commerce platform for renting inflatables and event equipment.
-🎈 Manage inventory, customize pricing, and track bookings effortlessly.
-💳 Integrated with Stripe for secure, smooth payment processing.
+- 🎈 Manage inventory, customize pricing, and track bookings effortlessly.
+- 💳 Integrated with Stripe for secure, smooth payment processing.
 
 🔧 Tech Stack:
 React.js • Node.js • Firebase • Stripe Integration • Hosted on Vercel
 
 🔥 **[BadAssBBQs](#)**  
 An e-commerce platform dedicated to premium grills, ovens, and BBQ equipment.
-🍖 Dynamic product catalog with AI-generated descriptions for an engaging shopping experience.
-📦 Manage orders, inventory, and shipping with a custom dashboard.
-🤖 Integrated AI-powered chatbot for instant customer support and personalized recommendations.
+- 🍖 Dynamic product catalog with AI-generated descriptions for an engaging shopping experience.
+- 📦 Manage orders, inventory, and shipping with a custom dashboard.
+- 🤖 Integrated AI-powered chatbot for instant customer support and personalized recommendations.
 
 🔧 Tech Stack:
 React.js (Responsive UI) • Node.js (Backend) • Stripe (Payments) • Custom AI Integration
 
 🏆 **[AdviciApp](#)**  
 A robust mobile & web platform for simplifying property damage claims.
-📋 Manage emergency service requests, track claims, and organize insurance documentation.
-📦 Features include inventory tracking and alternative accommodation management for users during property repairs.
+- 📋 Manage emergency service requests, track claims, and organize insurance documentation.
+- 📦 Features include inventory tracking and alternative accommodation management for users during property repairs.
 
 🔧 Tech Stack:
 React Native (Cross-Platform App) • Node.js (Backend) • Supabase (Database & Authentication)
