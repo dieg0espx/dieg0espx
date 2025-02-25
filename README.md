@@ -32,18 +32,8 @@ I craft powerful digital experiences that blend functionality with innovation. F
 
 ### 📈 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dieg0espx&show_icons=true&theme=tokyonight&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=dieg0espx&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dieg0espx&layout=compact&theme=tokyonight)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dieg0espx&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=dieg0espx&color=blue&style=flat-square)
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=dieg0espx&repo=repository-name&theme=tokyonight)
-![Metrics](https://metrics.lecoq.io/dieg0espx?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&followup=1&lines=1)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username)
-[![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datrose.workers.dev/api/code-time-badge/dieg0espx)](https://codetime.dev)
-
-
-
 ---
 
 ### 🌟 **Featured Projects**
